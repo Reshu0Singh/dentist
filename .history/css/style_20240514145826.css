@@ -1,0 +1,4 @@
+/* change li display property from block to inline block*/
+.right-nav li , .left-nav li{
+    display: inline-block;
+}
